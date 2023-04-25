@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 800px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: white;
+}
+
+
+.navbar .nav-link{
+    font-size: 25px;
+    
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: white;
+}
+
